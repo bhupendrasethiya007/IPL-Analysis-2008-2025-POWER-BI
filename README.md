@@ -121,10 +121,10 @@ The dashboard includes the following KPIs:
 ---
 
 # 📸 Dashboard Preview
+<p align="center">
+  <img src="Dashboard_image.png" width="1000">
+</p>
 
-## Main Dashboard
-
-![Dashboard](Images/Dashboard_image.png)
 
 ---
 
